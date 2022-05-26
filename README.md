@@ -19,3 +19,4 @@
 
 
 ### Detailed Statment
+- To give an example of an advantage if refactoring we can view viusal(1) shown above. This visaul shows us two output run times of the code one comeing from the un-factored program and the other from the re-fractored program. As we can see from the image the re-factored code has a faster time of initialization compared to the other concluding that refracting has a benefit of a better run time then non-refactoring your code. 
