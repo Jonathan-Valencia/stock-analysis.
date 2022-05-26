@@ -8,3 +8,14 @@
   - The data that is presented includes two charts with stock information on 12 different stocks. The stock information contains a ticker value, the date the stock was issued, the opening, closing and adjusted closing price, the highest and lowest price, and the volume of the stock. The goal is to retrieve the ticker, the total daily volume, and the return on each stock.
 # Results
 ### Analysis of results 
+
+
+
+
+# Summary
+### Advantages nad Disadvantges of Refactoring Code
+
+
+
+
+### Detailed Statment
